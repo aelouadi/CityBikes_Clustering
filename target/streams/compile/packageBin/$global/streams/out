@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/marksus/Téléchargements/TestClustering/target/scala-2.12/testclustering_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/marksus/Téléchargements/TestClustering/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/citybikes/clustering[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/marksus/Téléchargements/TestClustering/target/scala-2.12/classes/com/citybikes/clustering[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/citybikes/clustering/Properties.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/marksus/Téléchargements/TestClustering/target/scala-2.12/classes/com/citybikes/clustering/Properties.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/citybikes/clustering/Properties$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/marksus/Téléchargements/TestClustering/target/scala-2.12/classes/com/citybikes/clustering/Properties$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/citybikes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/marksus/Téléchargements/TestClustering/target/scala-2.12/classes/com/citybikes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/citybikes/clustering/Run.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/marksus/Téléchargements/TestClustering/target/scala-2.12/classes/com/citybikes/clustering/Run.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/citybikes/clustering/Run$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/marksus/Téléchargements/TestClustering/target/scala-2.12/classes/com/citybikes/clustering/Run$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
